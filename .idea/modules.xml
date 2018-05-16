@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bidirectio.iml" filepath="$PROJECT_DIR$/Bidirectio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vvp/vvp.iml" filepath="$PROJECT_DIR$/vvp/vvp.iml" />
+    </modules>
+  </component>
+</project>
